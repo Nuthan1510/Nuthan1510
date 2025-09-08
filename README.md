@@ -3,7 +3,7 @@ Student a NIAT(NxtWave Institue of Advanced Technology)
 
 
 ## 🌐 Socials:
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/nuthan-m-70553a371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))](https://linkedin.com/in/Nuthan M) 
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/nuthan-m-70553a371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))](https://linkedin.com.in/nuthan-m-70553a371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
